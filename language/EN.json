@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "Madhav",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -53,13 +53,13 @@
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
-            "IM_AFK": "*I'm AFK now!*",
-            "IM_AFK_NOMD": "I'm AFK now!",
+            "IM_AFK": "*My master is offline now 💻.Im his cute little assistant🐱.If he comes online he wil reply 😊*",
+            "IM_AFK_NOMD": "My master is offline now 💻.Im his cute little assistant🐱.If he comes online he wil reply 😊",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```Bip bop! This is a bot. My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "Bip bop! This is a bot.",
+            "AFK_TEXT": "```My master is offline now 💻.Im his cute little assistant🐱.If he comes online he wil reply 😊. Urgent aithey call chey 😐 ```",
+            "AFK_TEXT_NOMD": "My master is offline now 💻.Im his cute little assistant🐱.If he comes online he wil reply 😊",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second",
